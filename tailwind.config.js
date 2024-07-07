@@ -13,6 +13,9 @@ export default {
         },
         zinc: "#101010",
       },
+      width: {
+        '49p': '49%',
+      },
     },
   },
   plugins: [],

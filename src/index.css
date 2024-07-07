@@ -29,6 +29,11 @@ canvas {
   touch-action: none;
 }
 
+em {
+  color: #fff;
+  font-style: normal
+}
+
 @layer utilities {
   .flex-center {
     @apply flex justify-center items-center;
